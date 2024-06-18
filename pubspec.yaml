@@ -1,8 +1,8 @@
 name: buttonhandler
 description: "This package helps handle physical or hardware buttons including and not limited to volume and power buttons"
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/lennie-ein
-repository: https://github.com/lennie-ein/hardware-buttons-handler/tree/main/buttonhandler
+repository: https://github.com/lennie-ein/buttonhandler.git
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
